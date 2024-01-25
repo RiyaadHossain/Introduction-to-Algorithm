@@ -3,9 +3,14 @@ using namespace std;
 
 int main()
 {
-    /* 
-    
-    Graph: A Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph. 
+    /*
+
+    Graph: A Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph.
+
+    Characteristics:
+        1. Multiples edges
+        2. Multi Directed
+        3. May have cycle
 
     Types of Graph:
         1. Directed/Undirected Graph
@@ -17,8 +22,8 @@ int main()
         2. Adjacency List
         3. Edge List
 
+    Link: https://phitron.gitbook.io/algorithm/module_1/_-1
     */
-
 
     return 0;
 }
