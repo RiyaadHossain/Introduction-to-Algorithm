@@ -11,3 +11,7 @@
 - Module 5: `Cycle Detection`
 - Module 6: `Dijkstra Algorithm`
 - Module 7: `Bellman Ford and Floyd Warshall Algorithm`
+- Module 8: `Assignment 8`
+- Module 9: `Problem Solving with BFS and DFS`
+- Module 10: `DSU`
+- Module 11: `DSU cycle Detection and MST`
