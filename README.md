@@ -15,3 +15,4 @@
 - Module 9: `Problem Solving with BFS and DFS`
 - Module 10: `DSU`
 - Module 11: `DSU cycle Detection and MST`
+- Module 17: `Basics of Dynamic Programming`
