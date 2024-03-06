@@ -1,0 +1,11 @@
+1. Longest Common Subsequence
+    a. Recursive Approach
+    b. Iterative Approach [Done]
+    c. Print LCS (Recursion)
+    d. Print LCS (Iteration) [Done]
+
+2. Longest Common Substring
+    a. Recursive Approach
+    b. Iterative Approach [Done]
+    c. Print LCS (Recursion)
+    d. Print LCS (Iteration) [Done]

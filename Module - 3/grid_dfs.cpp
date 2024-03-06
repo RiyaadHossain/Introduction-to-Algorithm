@@ -14,7 +14,6 @@ bool isValid(int i, int j)
 
 void dfs(vector<vector<int>> grid, int si, int sj)
 {
-    cout << grid[si][sj] << " ";
     vis[si][sj] = 1;
 
     for (auto d : dir)

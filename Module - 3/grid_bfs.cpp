@@ -27,9 +27,6 @@ void bfs(vector<vector<int>> grid, int si, int sj)
         int i = front.first;
         int j = front.second;
 
-        cout << grid[i][j] << " ";
-
-
         for (auto d : dir)
         {
             int ci = i + d.first;

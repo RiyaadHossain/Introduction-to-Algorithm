@@ -17,7 +17,7 @@ void makeGraph(int v, int e)
     }
 }
 
-void bfs(int src)
+void bfs(vector<int> graph[], int src)
 {
     queue<int> qu;
     qu.push(src);
@@ -27,8 +27,6 @@ void bfs(int src)
     {
         int par = qu.front();
         qu.pop();
-
-        cout << par << " ";
 
         for (int i = 0; i < graph[par].size(); i++)
         {
@@ -52,7 +50,7 @@ int main()
 
     int src;
     cin >> src;
-    bfs(src);
+    bfs(graph, src);
 
     return 0;
 }
